@@ -1,1 +1,1 @@
-# 01_Systemmodellierung_-bung
+# 01_Systemmodellierung_Uebung
